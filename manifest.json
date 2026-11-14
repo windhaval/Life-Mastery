@@ -1,0 +1,14 @@
+{
+  "name": "Life Mastery",
+  "short_name": "LifeMastery",
+  "description": "Daily planner, habit tracker, goals, focus timer and daily motivation.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14122b",
+  "theme_color": "#14122b",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
